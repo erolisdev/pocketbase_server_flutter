@@ -52,7 +52,7 @@ android {
         implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.4'
         implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.4'
         // implementation 'com.github.rohitsangwan01:pocketbase_android:1.0.0'
-        implementation 'com.github.com/erolisdev/pocketbase_android/1.0.0'
+        implementation 'com.github.erolisdev:pocketbase_android/1.0.0'
     }
 
     testOptions {
